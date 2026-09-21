@@ -105,4 +105,4 @@ Based on the analysis:
 
 The dataset used in this project is publicly available on Kaggle:
 
-**Source:** [Swiggy Restaurants Dataset](https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)
+**Source:** [BlinkIT Grocery Dataset](https://www.kaggle.com/datasets/mukeshgadri/blinkit-dataset)
